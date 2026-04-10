@@ -1,4 +1,4 @@
-﻿# calculatfrice_ai_de_gradiKBG
+﻿# calculatrice_ai_de_gradiKBG
 # calculatrice_ai_KBG
 # Calculatrice avec IA (PySide6 + Ollama)
 
